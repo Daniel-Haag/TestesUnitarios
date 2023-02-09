@@ -1,0 +1,6 @@
+C:\Cursos\ProjetoTestesUnitarios\MinhasClasses\bin\Debug\MinhasClasses.dll
+C:\Cursos\ProjetoTestesUnitarios\MinhasClasses\bin\Debug\MinhasClasses.pdb
+C:\Cursos\ProjetoTestesUnitarios\MinhasClasses\obj\Debug\MinhasClasses.csproj.AssemblyReference.cache
+C:\Cursos\ProjetoTestesUnitarios\MinhasClasses\obj\Debug\MinhasClasses.csproj.CoreCompileInputs.cache
+C:\Cursos\ProjetoTestesUnitarios\MinhasClasses\obj\Debug\MinhasClasses.dll
+C:\Cursos\ProjetoTestesUnitarios\MinhasClasses\obj\Debug\MinhasClasses.pdb
